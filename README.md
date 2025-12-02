@@ -88,7 +88,7 @@ This project demonstrates a real-world data analytics workflow using two public 
 ## **Cloning the Project**
 
 ```bash
-git clone https://github.com/Aayush1291/Akku.git
+git clone https://github.com/Aayush1291/Data-Visualization-SDG.git
 ```
 ---
 
